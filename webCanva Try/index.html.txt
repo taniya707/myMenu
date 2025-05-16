@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Food Menu</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    img {
+      max-width: 100%;
+      max-height: 100vh;
+      object-fit: contain;
+      box-shadow: 0 0 20px rgba(0,0,0,0.8);
+    }
+  </style>
+</head>
+<body>
+  <img src="https://ibb.co/rfpvBjHv" alt="Menu Image">
+</body>
+</html>
